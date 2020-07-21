@@ -4,3 +4,4 @@
 
 lscpu
 cat /etc/*release
+mkdir
