@@ -4,3 +4,4 @@ Description: git conflict
 
 lscpu
 cat /etc/*release
+mkdir
